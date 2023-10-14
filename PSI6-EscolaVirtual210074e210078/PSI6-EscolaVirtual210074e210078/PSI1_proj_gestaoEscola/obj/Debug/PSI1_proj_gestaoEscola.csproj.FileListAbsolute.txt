@@ -1,0 +1,134 @@
+C:\Users\i210074\source\repos\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.AssemblyReference.cache
+C:\Users\i210074\source\repos\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmadmin.resources
+C:\Users\i210074\source\repos\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmaluno.resources
+C:\Users\i210074\source\repos\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmlogin.resources
+C:\Users\i210074\source\repos\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmprof.resources
+C:\Users\i210074\source\repos\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.Properties.Resources.resources
+C:\Users\i210074\source\repos\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.GenerateResource.cache
+C:\Users\i210074\source\repos\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.CoreCompileInputs.cache
+C:\Users\i210074\source\repos\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.exe.config
+C:\Users\i210074\source\repos\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.exe
+C:\Users\i210074\source\repos\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.pdb
+C:\Users\i210074\source\repos\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.exe
+C:\Users\i210074\source\repos\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.pdb
+D:\12ºano\PSI1\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.exe.config
+D:\12ºano\PSI1\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.exe
+D:\12ºano\PSI1\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.pdb
+D:\12ºano\PSI1\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.AssemblyReference.cache
+D:\12ºano\PSI1\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmadmin.resources
+D:\12ºano\PSI1\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmaluno.resources
+D:\12ºano\PSI1\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmlogin.resources
+D:\12ºano\PSI1\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmprof.resources
+D:\12ºano\PSI1\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.Properties.Resources.resources
+D:\12ºano\PSI1\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.GenerateResource.cache
+D:\12ºano\PSI1\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.CoreCompileInputs.cache
+D:\12ºano\PSI1\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.exe
+D:\12ºano\PSI1\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.pdb
+D:\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.exe.config
+D:\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.exe
+D:\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.pdb
+D:\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.AssemblyReference.cache
+D:\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.SuggestedBindingRedirects.cache
+D:\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmadmin.resources
+D:\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmaluno.resources
+D:\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmPerfilAluno.resources
+D:\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmPerfilProf.resources
+D:\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmlogin.resources
+D:\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmprof.resources
+D:\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.Properties.Resources.resources
+D:\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.GenerateResource.cache
+D:\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.CoreCompileInputs.cache
+D:\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.exe
+D:\PSI1_proj_gestaoEscola\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.pdb
+D:\proj_PSI1_salvador\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.AssemblyReference.cache
+D:\proj_PSI1_salvador\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmadmin.resources
+D:\proj_PSI1_salvador\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmaluno.resources
+D:\proj_PSI1_salvador\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmPerfilAluno.resources
+D:\proj_PSI1_salvador\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmPerfilProf.resources
+D:\proj_PSI1_salvador\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmlogin.resources
+D:\proj_PSI1_salvador\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmprof.resources
+D:\proj_PSI1_salvador\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.Properties.Resources.resources
+D:\proj_PSI1_salvador\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.GenerateResource.cache
+D:\proj_PSI1_salvador\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.CoreCompileInputs.cache
+D:\proj_PSI1_salvador\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.exe
+D:\proj_PSI1_salvador\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.pdb
+D:\proj_PSI1_salvador\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.exe.config
+D:\proj_PSI1_salvador\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.exe
+D:\proj_PSI1_salvador\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.pdb
+D:\proj_PSI1_salvador2\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.AssemblyReference.cache
+D:\proj_PSI1_salvador2\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.SuggestedBindingRedirects.cache
+D:\proj_PSI1_salvador2\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmadmin.resources
+D:\proj_PSI1_salvador2\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmaluno.resources
+D:\proj_PSI1_salvador2\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmPerfilAluno.resources
+D:\proj_PSI1_salvador2\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmPerfilProf.resources
+D:\proj_PSI1_salvador2\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmlogin.resources
+D:\proj_PSI1_salvador2\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmprof.resources
+D:\proj_PSI1_salvador2\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.Properties.Resources.resources
+D:\proj_PSI1_salvador2\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.GenerateResource.cache
+D:\proj_PSI1_salvador2\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.CoreCompileInputs.cache
+D:\proj_PSI1_salvador2\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.exe
+D:\proj_PSI1_salvador2\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.pdb
+D:\proj_PSI1_salvador2\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.exe.config
+D:\proj_PSI1_salvador2\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.exe
+D:\proj_PSI1_salvador2\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.pdb
+D:\12ºano\PSI1\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.AssemblyReference.cache
+D:\12ºano\PSI1\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmadmin.resources
+D:\12ºano\PSI1\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmaluno.resources
+D:\12ºano\PSI1\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmPerfilAluno.resources
+D:\12ºano\PSI1\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmPerfilProf.resources
+D:\12ºano\PSI1\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmlogin.resources
+D:\12ºano\PSI1\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmprof.resources
+D:\12ºano\PSI1\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.Properties.Resources.resources
+D:\12ºano\PSI1\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.GenerateResource.cache
+D:\12ºano\PSI1\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.CoreCompileInputs.cache
+D:\12ºano\PSI1\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.exe
+D:\12ºano\PSI1\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.pdb
+D:\12ºano\PSI1\_proj_PSI1_final7\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.exe.config
+D:\12ºano\PSI1\_proj_PSI1_final7\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.exe
+D:\12ºano\PSI1\_proj_PSI1_final7\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.pdb
+D:\12ºano\PSI1\M6\_Projeto_M6\_proj_PSI1_final7\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.exe.config
+D:\12ºano\PSI1\M6\_Projeto_M6\_proj_PSI1_final7\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.exe
+D:\12ºano\PSI1\M6\_Projeto_M6\_proj_PSI1_final7\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.pdb
+D:\12ºano\PSI1\M6\_Projeto_M6\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.AssemblyReference.cache
+D:\12ºano\PSI1\M6\_Projeto_M6\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmadmin.resources
+D:\12ºano\PSI1\M6\_Projeto_M6\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmaluno.resources
+D:\12ºano\PSI1\M6\_Projeto_M6\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmPerfilAluno.resources
+D:\12ºano\PSI1\M6\_Projeto_M6\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmPerfilProf.resources
+D:\12ºano\PSI1\M6\_Projeto_M6\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmlogin.resources
+D:\12ºano\PSI1\M6\_Projeto_M6\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmprof.resources
+D:\12ºano\PSI1\M6\_Projeto_M6\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.Properties.Resources.resources
+D:\12ºano\PSI1\M6\_Projeto_M6\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.GenerateResource.cache
+D:\12ºano\PSI1\M6\_Projeto_M6\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.CoreCompileInputs.cache
+D:\12ºano\PSI1\M6\_Projeto_M6\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.exe
+D:\12ºano\PSI1\M6\_Projeto_M6\_proj_PSI1_final7\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.pdb
+D:\12ºano\PSI1\M6\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.exe.config
+D:\12ºano\PSI1\M6\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.exe
+D:\12ºano\PSI1\M6\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.pdb
+D:\12ºano\PSI1\M6\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.AssemblyReference.cache
+D:\12ºano\PSI1\M6\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmadmin.resources
+D:\12ºano\PSI1\M6\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmaluno.resources
+D:\12ºano\PSI1\M6\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmPerfilAluno.resources
+D:\12ºano\PSI1\M6\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmPerfilProf.resources
+D:\12ºano\PSI1\M6\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmlogin.resources
+D:\12ºano\PSI1\M6\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmprof.resources
+D:\12ºano\PSI1\M6\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.Properties.Resources.resources
+D:\12ºano\PSI1\M6\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.GenerateResource.cache
+D:\12ºano\PSI1\M6\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.CoreCompileInputs.cache
+D:\12ºano\PSI1\M6\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.exe
+D:\12ºano\PSI1\M6\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.pdb
+E:\curso 3 ano\PSI\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.exe.config
+E:\curso 3 ano\PSI\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.exe
+E:\curso 3 ano\PSI\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.AssemblyReference.cache
+E:\curso 3 ano\PSI\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.SuggestedBindingRedirects.cache
+E:\curso 3 ano\PSI\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmadmin.resources
+E:\curso 3 ano\PSI\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmaluno.resources
+E:\curso 3 ano\PSI\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmPerfilAluno.resources
+E:\curso 3 ano\PSI\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmPerfilProf.resources
+E:\curso 3 ano\PSI\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmlogin.resources
+E:\curso 3 ano\PSI\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmprof.resources
+E:\curso 3 ano\PSI\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.Properties.Resources.resources
+E:\curso 3 ano\PSI\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.GenerateResource.cache
+E:\curso 3 ano\PSI\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.CoreCompileInputs.cache
+E:\curso 3 ano\PSI\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.exe
+E:\curso 3 ano\PSI\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.pdb
+E:\curso 3 ano\PSI\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.pdb
