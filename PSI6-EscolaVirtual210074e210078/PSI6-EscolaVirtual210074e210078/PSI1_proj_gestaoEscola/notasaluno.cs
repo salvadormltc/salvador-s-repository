@@ -10,10 +10,10 @@ namespace PSI1_proj_gestaoEscola
     {
         public string _nota;
         public string _disciplina;
-        public string _numconta;
+        public int _numconta;
        
 
-        public notasaluno(string nota,string disciplina, string numconta)
+        public notasaluno(string nota,string disciplina, int numconta)
         {
             _nota = nota;
             _disciplina = disciplina;
@@ -33,7 +33,7 @@ namespace PSI1_proj_gestaoEscola
             get { return _disciplina; }
         }
 
-        public string Numconta
+        public int Numconta
         {
             get; set;
         }
