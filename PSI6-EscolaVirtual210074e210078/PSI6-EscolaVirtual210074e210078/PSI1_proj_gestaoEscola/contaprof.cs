@@ -65,30 +65,41 @@ namespace PSI1_proj_gestaoEscola
             { return false; }
         }
 
-        public bool AtribuirDisciplina(string Disciplina)
-        {         
-            if(Disciplina == "Matematica")
-                Disciplinas.Add(new Disciplina(Disciplina, "MAT"));
+        public void AtribuirDisciplina(string Disciplina)
+        {
+            switch (Disciplina)
+            {
+                case "Matematica":
+                    Disciplinas.Add(new Disciplina(Disciplina, "MAT"));
+                    break;
 
-            if (Disciplina == "Portugues")
-                Disciplinas.Add(new Disciplina(Disciplina, "PT"));
+                case "Portugues":
+                    Disciplinas.Add(new Disciplina(Disciplina, "PT"));
+                    break;
 
-            if (Disciplina == "Ingles")
-                Disciplinas.Add(new Disciplina(Disciplina, "ING"));
+                case "Ingles":
+                    Disciplinas.Add(new Disciplina(Disciplina, "ING"));
+                    break;
 
-            if (Disciplina == "Programacao")
-                Disciplinas.Add(new Disciplina(Disciplina, "PSI"));
+                case "Programacao":
+                    Disciplinas.Add(new Disciplina(Disciplina, "PSI"));
+                    break;
 
-            if (Disciplina == "Redes")
-                Disciplinas.Add(new Disciplina(Disciplina, "RC"));
+                case "Redes":
+                    Disciplinas.Add(new Disciplina(Disciplina, "RC"));
+                    break;
 
-            if (Disciplina == "Educacao Fisica")
-                Disciplinas.Add(new Disciplina(Disciplina, "EF"));
+                case "Educacao Fisica":
+                    Disciplinas.Add(new Disciplina(Disciplina, "EF"));
+                    break;
 
-            if (Disciplina == "Area de Integracao")
-                Disciplinas.Add(new Disciplina(Disciplina, "AI"));
+                case "Area de Integracao":
+                    Disciplinas.Add(new Disciplina(Disciplina, "AI"));
+                    break;
 
-            return true;
+                default:
+                    break;
+            }
         }
     }
 }
