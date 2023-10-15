@@ -9,22 +9,43 @@ namespace PSI1_proj_gestaoEscola
 {
     public class contaaluno
     {
-        public string _numconta;
+       // public string _numconta;
         public string _titular;
-        public string _pin;
+       // public string _pin;
         public string _turma;
         public string _morada;
-        public string _contacto;
-        public string _NIF;
+       // public string _contacto;
+        //public string _NIF;
         public string _curso;
         public string _email;
-        public string _data;
+        //public string _data;
         public decimal _saldoCartao;
 
+        private int _numconta;
+        private int _pin;
+        private int _contacto;
+        private int _nif;
+        private DateTime _data;
+       // private turma _turma;
 
-        public contaaluno(string numconta, string titular, string pin, string turma, string curso, string email, string data,string morada, string contacto, string NIF,decimal saldoCartao )
-        {
+
+        public contaaluno(int numconta, string titular, int pin, string turma, string curso, string email, DateTime data, string morada, int contacto, int nif, decimal saldocartao) {
             _numconta = numconta;
+            _titular = titular;
+            _pin = pin;
+            _turma = turma;
+            _curso = curso;
+            _email = email;
+            _data = data;
+            _morada = morada;
+            _contacto = contacto;
+            _nif = nif;
+            _saldoCartao = saldocartao;
+        }
+
+       /* public contaaluno(string numconta, string titular, string pin, string turma, string curso, string email, string data,string morada, string contacto, string NIF,decimal saldoCartao )
+        {
+           // _numconta = numconta;
             _titular = titular;
             _pin = pin;
             _turma = turma;
@@ -35,9 +56,9 @@ namespace PSI1_proj_gestaoEscola
             _contacto = contacto;
             _NIF = NIF;
             _saldoCartao = saldoCartao;
-        }
+        }*/
               
-        public string Numconta
+        public int Numconta
         {
             get; set;
         }
@@ -47,7 +68,7 @@ namespace PSI1_proj_gestaoEscola
             get; set;
         }
 
-        public string Pin
+        public int Pin
         {
             get; set;
         }
@@ -72,20 +93,25 @@ namespace PSI1_proj_gestaoEscola
             get; set;
         }
 
-        public string Contacto
+        public int Contacto
         {
             get; set;
         }
 
-        public string NIF
+        public int NIF
         {
             get; set;
         }
 
-        public bool Verificapin(string pin)
+        public DateTime Data
+        {
+            get; set;
+        }
+
+        public bool Verificapin(int pin)
         {
             
-            if (_pin == pin)
+            if (this._pin == pin)
             {
                 return true;
             }

@@ -41,6 +41,8 @@ namespace PSI1_proj_gestaoEscola
             string textonum = txt_user.Text;
             string textopin = txt_pass.Text;
 
+           
+
             if (rdb_admin.Checked)
             {
                 if (textonum == "admin" && textopin == "admin1234")
@@ -57,11 +59,13 @@ namespace PSI1_proj_gestaoEscola
             {
                 if (rdb_aluno.Checked)
                 {
-                    if (geral.Contasaluno.Exists(s => s._numconta == textonum))
+                    int num = Convert.ToInt16(textonum);
+                    int pin = Convert.ToInt16(textopin);
+                    if (geral.Contasaluno.Exists(s => s.Numconta == num))
                     {
-                        contaaluno account = geral.Contasaluno.First(s => s._numconta == textonum);
+                        contaaluno account = geral.Contasaluno.First(s => s.Numconta == num);
                         
-                        if (account.Verificapin(textopin))
+                        if (account.Verificapin(pin))
                         {
                             frmaluno aluno = new frmaluno(account);
                             aluno.Show();

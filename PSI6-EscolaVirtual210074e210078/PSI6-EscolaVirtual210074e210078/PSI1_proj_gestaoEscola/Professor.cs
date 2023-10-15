@@ -40,7 +40,7 @@ namespace PSI1_proj_gestaoEscola
             string disciplinaselecionada = cbb_disciplina.SelectedItem.ToString();
             string turmaselecionadaava = cbb_turma.SelectedItem.ToString();
             /*avaliacaoaluno*/
-            string numaluno = txtnumaluno.Text.ToString();
+            int numaluno = Convert.ToInt16(txtnumaluno.Text);
             string notaaluno = txtnota.Text.ToString();
             /*avaliacaoaluno*/
 
@@ -57,7 +57,7 @@ namespace PSI1_proj_gestaoEscola
                 return;
             }
 
-            if (numaluno.Length == 0)
+            if (numaluno == 0)
             {
                 MessageBox.Show("Preencha os espaços devidos", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
