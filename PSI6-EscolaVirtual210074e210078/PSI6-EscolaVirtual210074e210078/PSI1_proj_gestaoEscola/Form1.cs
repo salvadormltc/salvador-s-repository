@@ -60,24 +60,15 @@ namespace PSI1_proj_gestaoEscola
             {
                 if (rdb_aluno.Checked)
                 {
-                    /*foreach (var elemento in geral.Contasaluno) {
-                        MessageBox.Show($"NUMERO: {elemento.Numconta.ToString()}\nPin: {elemento.Pin.ToString()}\nData: {elemento.Data.ToString()}", "Erro de autenticação", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    }*/
 
                     int num = Convert.ToInt16(textonum);
                     int pin = Convert.ToInt16(textopin);
-                    MessageBox.Show($"NUMERO: {num.ToString()}\nPin: {pin.ToString()}\n", "Erro 1", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     if (geral.Contasaluno.Exists(s => s.Numconta == num))
                     {
-                        MessageBox.Show($"NUMERO: {num.ToString()}\nPin: {pin.ToString()}\n", "Erro 2", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         contaaluno account = geral.Contasaluno.First(s => s.Numconta == num);
-                        MessageBox.Show($"NUMERO: {account.Numconta.ToString()}\nPin: {account.Pin.ToString()}\n", "Erro 3", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                        MessageBox.Show($"NUMERO: {account.Verificapin(pin).ToString()}\n", "Erro 4", MessageBoxButtons.OK, MessageBoxIcon.Error);
 
-                       // if (account.Verificapin(pin))
                        if(account.Pin == pin)
                         {
-                            MessageBox.Show($"NUMERO: {num.ToString()}\nPin: {pin.ToString()}\n", "Erro pin", MessageBoxButtons.OK, MessageBoxIcon.Error);
                             frmaluno aluno = new frmaluno(account);
                             aluno.Show();
                             this.Visible = false;
