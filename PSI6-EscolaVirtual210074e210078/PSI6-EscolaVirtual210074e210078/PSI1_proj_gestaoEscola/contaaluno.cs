@@ -19,8 +19,7 @@ namespace PSI1_proj_gestaoEscola
         public string _curso;
         public string _email;
         public string _data;
-        public decimal _saldoCartao;
-
+        public decimal _saldoCartao; 
 
         public contaaluno(string numconta, string titular, string pin, string turma, string curso, string email, string data,string morada, string contacto, string NIF,decimal saldoCartao )
         {

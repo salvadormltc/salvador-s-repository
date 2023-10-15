@@ -132,3 +132,18 @@ E:\curso 3 ano\PSI\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e2100
 E:\curso 3 ano\PSI\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.exe
 E:\curso 3 ano\PSI\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.pdb
 E:\curso 3 ano\PSI\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.pdb
+D:\salvador\salvador-s-repository\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.exe.config
+D:\salvador\salvador-s-repository\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.exe
+D:\salvador\salvador-s-repository\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\bin\Debug\PSI1_proj_gestaoEscola.pdb
+D:\salvador\salvador-s-repository\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.AssemblyReference.cache
+D:\salvador\salvador-s-repository\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmadmin.resources
+D:\salvador\salvador-s-repository\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmaluno.resources
+D:\salvador\salvador-s-repository\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmPerfilAluno.resources
+D:\salvador\salvador-s-repository\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmPerfilProf.resources
+D:\salvador\salvador-s-repository\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmlogin.resources
+D:\salvador\salvador-s-repository\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.frmprof.resources
+D:\salvador\salvador-s-repository\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.Properties.Resources.resources
+D:\salvador\salvador-s-repository\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.GenerateResource.cache
+D:\salvador\salvador-s-repository\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.csproj.CoreCompileInputs.cache
+D:\salvador\salvador-s-repository\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.exe
+D:\salvador\salvador-s-repository\PSI6-EscolaVirtual210074e210078\PSI6-EscolaVirtual210074e210078\PSI1_proj_gestaoEscola\obj\Debug\PSI1_proj_gestaoEscola.pdb
