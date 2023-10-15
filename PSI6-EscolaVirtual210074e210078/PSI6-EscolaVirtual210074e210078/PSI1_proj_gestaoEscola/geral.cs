@@ -29,7 +29,7 @@ namespace PSI1_proj_gestaoEscola
         {
             /*notas alunos*/
             Notasaluno= new List<notasaluno>();
-            Notasaluno.Add(new notasaluno("19", "Matematica", 210078));
+            Notasaluno.Add(new notasaluno("19", "Matematica", "210078"));
             /*notas alunos*/
 
             /*turmas*/
@@ -49,13 +49,12 @@ namespace PSI1_proj_gestaoEscola
             //Contasaluno.Add(new contaaluno("210078","Salvador", "1234","Turma 2","TGPSI","email@email.com","dataAluno","moradaAluno","968601853","8348758375",89));
             
             Contasaluno = new List<contaaluno>();
-            DateTime data = DateTime.Now;
-            Contasaluno.Add(new contaaluno(1, "Raquel", 1, "Turma 3", "TGPSI", "email@aluno.com", DateTime.Now, "moradaAluno", 968601883, 123456789, 100));
+            Contasaluno.Add(new contaaluno("210074", "Raquel", "1234", "Turma 3", "TGPSI", "email@aluno.com", "dataAluno", "moradaAluno", "968601883", "8348758375", 100));
             /*alunos*/
 
             /*profs*/
             Contasprof = new List<contaprof>();
-            Contasprof.Add(new contaprof("Mario","1","1","Turma 2","TGPSI","email@prof.com","dataProf","moradaProf","975687687","88787789", "PORTUGUES"));
+            //Contasprof.Add(new contaprof("Mario","210079","1234","Turma 2","TGPSI","email@prof.com","dataProf","moradaProf","975687687","88787789"));
             /*profs*/
         }
     }

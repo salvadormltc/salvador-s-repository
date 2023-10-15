@@ -66,35 +66,8 @@ namespace PSI1_proj_gestaoEscola
         }
 
         public bool AtribuirDisciplina(string Disciplina)
-        {
-            switch (Disciplina)
-            {
-                case "Matematica":
-                    Disciplinas.Add(new Disciplina(Disciplina, "MAT"));
-                    break;
-                case "Portugues":
-                    Disciplinas.Add(new Disciplina(Disciplina, "PT"));
-                    break;
-                case "Ingles":
-                    Disciplinas.Add(new Disciplina(Disciplina, "ING"));
-                    break;
-                case "Programacao":
-                    Disciplinas.Add(new Disciplina(Disciplina, "PSI"));
-                    break;
-                case "Redes":
-                    Disciplinas.Add(new Disciplina(Disciplina, "RC"));
-                    break;
-                case "Educaocao Fisica":
-                    Disciplinas.Add(new Disciplina(Disciplina, "EF"));
-                    break;
-                case "Area de Integracao":
-                    Disciplinas.Add(new Disciplina(Disciplina, "AI"));
-                    break;
-                default:
-                    return false;
-            }
-
-           /* if (Disciplina == "Matematica")
+        {         
+            if(Disciplina == "Matematica")
                 Disciplinas.Add(new Disciplina(Disciplina, "MAT"));
 
             if (Disciplina == "Portugues")
@@ -113,7 +86,7 @@ namespace PSI1_proj_gestaoEscola
                 Disciplinas.Add(new Disciplina(Disciplina, "EF"));
 
             if (Disciplina == "Area de Integracao")
-                Disciplinas.Add(new Disciplina(Disciplina, "AI"));*/
+                Disciplinas.Add(new Disciplina(Disciplina, "AI"));
 
             return true;
         }

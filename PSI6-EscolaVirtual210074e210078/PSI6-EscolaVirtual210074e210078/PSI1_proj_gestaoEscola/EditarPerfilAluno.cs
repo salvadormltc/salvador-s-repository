@@ -70,8 +70,7 @@ namespace PSI1_proj_gestaoEscola
                 aluno._titular = txt_nome.Text;
                 aluno._curso = cbb_curso.SelectedItem.ToString();
                 aluno._turma = cbb_turma.SelectedItem.ToString();
-                //aluno.Numconta = txt_numAluno.Text;
-                aluno.Numconta = Convert.ToInt16(txt_numAluno);
+                aluno._numconta = txt_numAluno.Text;
                 aluno._email = txt_email.Text;
 
                 // Cria uma nova instância de frmprof

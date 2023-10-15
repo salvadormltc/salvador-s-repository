@@ -23,14 +23,14 @@ namespace PSI1_proj_gestaoEscola
 
         private void frmaluno_Load(object sender, EventArgs e)
         {
-            decimal _saldoCartao = Convert.ToDecimal(aluno.SaldoCartao.ToString());
+            decimal _saldoCartao = Convert.ToDecimal(aluno._saldoCartao.ToString());
 
             lbl_nome.Text = "Nome: " + aluno._titular.ToString();
-            lbl_numAluno.Text = "Num aluno: " + aluno.Numconta.ToString();
+            lbl_numAluno.Text = "Num aluno: " + aluno._numconta.ToString();
             lbl_turma.Text = "Turma: " + aluno._turma.ToString();
-            lbl_dataNasc.Text = aluno.Data.ToString();
+            lbl_dataNasc.Text = aluno._data.ToString();
             lbl_curso.Text = "Curso: " + aluno._curso.ToString();                    
-            lbl_saldo.Text = "Saldo: " + aluno.SaldoCartao.ToString() + "€";  
+            lbl_saldo.Text = "Saldo: " + aluno._saldoCartao.ToString() + "€";  
         }
 
         private void btn_editPerfil_Click_1(object sender, EventArgs e)
@@ -56,9 +56,9 @@ namespace PSI1_proj_gestaoEscola
         {
             foreach (var item in geral.Notasaluno)
             {
-                if (item._numconta == aluno.Numconta)
+                if (item._numconta == aluno._numconta)
                 {
-                    lstinfoaluno.Items.Add("O aluno " + item._numconta.ToString() + "  teve  " + item._nota + "  na disciplina  " + item._disciplina);
+                    lstinfoaluno.Items.Add("O aluno " + item._numconta + "  teve  " + item._nota + "  na disciplina  " + item._disciplina);
                 }
             }
         }
@@ -66,11 +66,11 @@ namespace PSI1_proj_gestaoEscola
         public void AtualizarLabelsAluno(contaaluno novoAluno)
         {
             lbl_nome.Text = novoAluno._titular;
-            lbl_dataNasc.Text = novoAluno.Data.ToString();
-            lbl_numAluno.Text = novoAluno.Numconta.ToString();
+            lbl_dataNasc.Text = novoAluno._data;
+            lbl_numAluno.Text = novoAluno._numconta;
             lbl_turma.Text = novoAluno._turma;
             lbl_curso.Text = novoAluno._curso;
-            lbl_saldo.Text = novoAluno.SaldoCartao.ToString();
+            lbl_saldo.Text = novoAluno._saldoCartao.ToString();
         }        
     }
 }

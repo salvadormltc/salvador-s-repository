@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using System.Xml.Linq;
 
 namespace PSI1_proj_gestaoEscola
 {
@@ -42,8 +41,6 @@ namespace PSI1_proj_gestaoEscola
             string textonum = txt_user.Text;
             string textopin = txt_pass.Text;
 
-           
-
             if (rdb_admin.Checked)
             {
                 if (textonum == "admin" && textopin == "admin1234")
@@ -60,14 +57,11 @@ namespace PSI1_proj_gestaoEscola
             {
                 if (rdb_aluno.Checked)
                 {
-
-                    int num = Convert.ToInt16(textonum);
-                    int pin = Convert.ToInt16(textopin);
-                    if (geral.Contasaluno.Exists(s => s.Numconta == num))
+                    if (geral.Contasaluno.Exists(s => s._numconta == textonum))
                     {
-                        contaaluno account = geral.Contasaluno.First(s => s.Numconta == num);
-
-                       if(account.Pin == pin)
+                        contaaluno account = geral.Contasaluno.First(s => s._numconta == textonum);
+                        
+                        if (account.Verificapin(textopin))
                         {
                             frmaluno aluno = new frmaluno(account);
                             aluno.Show();

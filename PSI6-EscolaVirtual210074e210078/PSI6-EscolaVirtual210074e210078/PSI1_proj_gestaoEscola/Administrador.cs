@@ -72,34 +72,18 @@ namespace PSI1_proj_gestaoEscola
         private void btncriaraluno_Click_1(object sender, EventArgs e)
         {
             /*aluno*/
-            /* string novoaluno = txtnovonomeal.Text.ToString();
-             string novaturma = cbbnovaturmaal.Text.ToString();
-             string novocurso = cbbnovocursoal.Text.ToString();
-             string novonum = txtnovonumal.Text.ToString();
-             string novoemail = txtemailal.Text.ToString();
-             string novopin = txtpinal.Text.ToString();
-             string novadata = dtpdata.Text.ToString();
-             string novamoral = txtmoradaaluno.Text.ToString();
-             string novocontactoal = txtcontactoaluno.Text.ToString();
-             string novonifal = txtnifaluno.Text.ToString();
-             decimal novosaldo = Convert.ToDecimal(txtsaldocartao.Text);*/
-            /*aluno*/
-
             string novoaluno = txtnovonomeal.Text.ToString();
-            string novaturma = cbbnovaturmaal.Text.ToString();//ir buscar turma e passar objeto
+            string novaturma = cbbnovaturmaal.Text.ToString();
             string novocurso = cbbnovocursoal.Text.ToString();
-            int novonum = Convert.ToInt32(txtnovonumal.Text);
+            string novonum = txtnovonumal.Text.ToString();
             string novoemail = txtemailal.Text.ToString();
-            int novopin = Convert.ToInt32(txtpinal.Text);
-            //string novadata = dtpdata.Text.ToString();
-            DateTime novadata = DateTime.Parse(dtpdata.Text);
+            string novopin = txtpinal.Text.ToString();
+            string novadata = dtpdata.Text.ToString();
             string novamoral = txtmoradaaluno.Text.ToString();
-            //string novocontactoal = txtcontactoaluno.Text.ToString();
-            int novocontactoal = Convert.ToInt32(txtcontactoaluno.Text);
-            //string novonifal = txtnifaluno.Text.ToString();
-            int novonifal = Convert.ToInt32(txtnifaluno.Text);
+            string novocontactoal = txtcontactoaluno.Text.ToString();
+            string novonifal = txtnifaluno.Text.ToString();
             decimal novosaldo = Convert.ToDecimal(txtsaldocartao.Text);
-
+            /*aluno*/
 
 
             if (novoaluno.Length == 0)
@@ -120,7 +104,7 @@ namespace PSI1_proj_gestaoEscola
                 return;
             }
 
-            if (novonum == 0)
+            if (novonum.Length == 0)
             {
                 MessageBox.Show("Preencha os espaços devidos", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
@@ -132,7 +116,7 @@ namespace PSI1_proj_gestaoEscola
                 return;
             }
 
-            if (novopin == 0)
+            if (novopin.Length == 0)
             {
                 MessageBox.Show("Preencha os espaços devidos", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
@@ -144,13 +128,13 @@ namespace PSI1_proj_gestaoEscola
                 return;
             }
 
-            if (novocontactoal == 0)
+            if (novocontactoal.Length == 0)
             {
                 MessageBox.Show("Preencha os espaços devidos", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
             }
 
-            if (novonifal == 0)
+            if (novonifal.Length == 0)
             {
                 MessageBox.Show("Preencha os espaços devidos", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
@@ -162,7 +146,7 @@ namespace PSI1_proj_gestaoEscola
                 return;
             }
 
-            if (geral.Contasaluno.Exists(s => s.Numconta == novonum))
+            if (geral.Contasaluno.Exists(s => s._numconta == novonum))
             {
                 MessageBox.Show("Ja existe um númeor com essa conta, tente outro.", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 txtnovonumal.Focus();

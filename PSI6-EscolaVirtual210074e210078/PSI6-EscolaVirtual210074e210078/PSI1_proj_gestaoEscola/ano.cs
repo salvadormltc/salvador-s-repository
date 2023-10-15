@@ -9,8 +9,6 @@ namespace PSI1_proj_gestaoEscola
     public class ano
     {
         public int numeroano;
-        public int NumeroAno { get; set; }
-        public List<turma> Turmas { get; set; }
 
         public ano(int numeroano, int numeroAno, List<turma> turmas)
         {
@@ -19,6 +17,7 @@ namespace PSI1_proj_gestaoEscola
             Turmas = turmas;
         }
 
-       
+        public int NumeroAno { get; set; }
+        public List<turma> Turmas { get; set; }
     }
 }
