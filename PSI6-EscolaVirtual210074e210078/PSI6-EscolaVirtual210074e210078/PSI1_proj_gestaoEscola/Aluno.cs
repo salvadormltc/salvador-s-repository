@@ -23,14 +23,14 @@ namespace PSI1_proj_gestaoEscola
 
         private void frmaluno_Load(object sender, EventArgs e)
         {
-            decimal _saldoCartao = Convert.ToDecimal(aluno._saldoCartao.ToString());
+            decimal _saldoCartao = Convert.ToDecimal(aluno.SaldoCartao.ToString());
 
             lbl_nome.Text = "Nome: " + aluno._titular.ToString();
             lbl_numAluno.Text = "Num aluno: " + aluno.Numconta.ToString();
             lbl_turma.Text = "Turma: " + aluno._turma.ToString();
             lbl_dataNasc.Text = aluno.Data.ToString();
             lbl_curso.Text = "Curso: " + aluno._curso.ToString();                    
-            lbl_saldo.Text = "Saldo: " + aluno._saldoCartao.ToString() + "€";  
+            lbl_saldo.Text = "Saldo: " + aluno.SaldoCartao.ToString() + "€";  
         }
 
         private void btn_editPerfil_Click_1(object sender, EventArgs e)
@@ -70,7 +70,7 @@ namespace PSI1_proj_gestaoEscola
             lbl_numAluno.Text = novoAluno.Numconta.ToString();
             lbl_turma.Text = novoAluno._turma;
             lbl_curso.Text = novoAluno._curso;
-            lbl_saldo.Text = novoAluno._saldoCartao.ToString();
+            lbl_saldo.Text = novoAluno.SaldoCartao.ToString();
         }        
     }
 }

@@ -88,16 +88,16 @@ namespace PSI1_proj_gestaoEscola
             string novoaluno = txtnovonomeal.Text.ToString();
             string novaturma = cbbnovaturmaal.Text.ToString();//ir buscar turma e passar objeto
             string novocurso = cbbnovocursoal.Text.ToString();
-            int novonum = Convert.ToInt16(txtnovonumal.Text);
+            int novonum = Convert.ToInt32(txtnovonumal.Text);
             string novoemail = txtemailal.Text.ToString();
-            int novopin = Convert.ToInt16(txtpinal.Text);
+            int novopin = Convert.ToInt32(txtpinal.Text);
             //string novadata = dtpdata.Text.ToString();
             DateTime novadata = DateTime.Parse(dtpdata.Text);
             string novamoral = txtmoradaaluno.Text.ToString();
             //string novocontactoal = txtcontactoaluno.Text.ToString();
-            int novocontactoal = Convert.ToInt16(txtcontactoaluno.Text);
+            int novocontactoal = Convert.ToInt32(txtcontactoaluno.Text);
             //string novonifal = txtnifaluno.Text.ToString();
-            int novonifal = Convert.ToInt16(txtnifaluno.Text);
+            int novonifal = Convert.ToInt32(txtnifaluno.Text);
             decimal novosaldo = Convert.ToDecimal(txtsaldocartao.Text);
 
 

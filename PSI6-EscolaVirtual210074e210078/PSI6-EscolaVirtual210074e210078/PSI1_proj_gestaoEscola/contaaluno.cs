@@ -19,7 +19,7 @@ namespace PSI1_proj_gestaoEscola
         public string _curso;
         public string _email;
         //public string _data;
-        public decimal _saldoCartao;
+        private decimal _saldoCartao;
 
         private int _numconta;
         private int _pin;
@@ -30,6 +30,7 @@ namespace PSI1_proj_gestaoEscola
 
 
         public contaaluno(int numconta, string titular, int pin, string turma, string curso, string email, DateTime data, string morada, int contacto, int nif, decimal saldocartao) {
+            
             _numconta = numconta;
             _titular = titular;
             _pin = pin;
@@ -108,10 +109,14 @@ namespace PSI1_proj_gestaoEscola
             get; set;
         }
 
+        public decimal SaldoCartao {
+            get; set;
+        }
+
         public bool Verificapin(int pin)
         {
-            
-            if (this._pin == pin)
+           
+            if (_pin == pin)
             {
                 return true;
             }

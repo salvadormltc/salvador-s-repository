@@ -50,12 +50,12 @@ namespace PSI1_proj_gestaoEscola
             
             Contasaluno = new List<contaaluno>();
             DateTime data = DateTime.Now;
-            Contasaluno.Add(new contaaluno(210074, "Raquel", 1234, "Turma 3", "TGPSI", "email@aluno.com", data, "moradaAluno", 968601883, 123456789, 100));
+            Contasaluno.Add(new contaaluno(1, "Raquel", 1, "Turma 3", "TGPSI", "email@aluno.com", DateTime.Now, "moradaAluno", 968601883, 123456789, 100));
             /*alunos*/
 
             /*profs*/
             Contasprof = new List<contaprof>();
-            //Contasprof.Add(new contaprof("Mario","210079","1234","Turma 2","TGPSI","email@prof.com","dataProf","moradaProf","975687687","88787789"));
+            Contasprof.Add(new contaprof("Mario","1","1","Turma 2","TGPSI","email@prof.com","dataProf","moradaProf","975687687","88787789", "PORTUGUES"));
             /*profs*/
         }
     }
